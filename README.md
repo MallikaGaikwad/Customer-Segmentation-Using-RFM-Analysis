@@ -1,4 +1,4 @@
-****CUSTOMER SEGMENTATION USING RFM (RECENCY, FREQUENCY,MONETARY) ANALYSIS****
+# CUSTOMER SEGMENTATION USING RFM (RECENCY, FREQUENCY,MONETARY) ANALYSIS
 
 The dataset employed in this analysis originates from the UCI Machine Learning Repository,
 encompassing transactional records spanning from December 1st, 2010 to December 9th, 2011.
